@@ -4,7 +4,7 @@ Vue 3 slider component
 
 [demo](https://moody-person.github.io/vue-slider-component/)
 
-![screenshot](assets/vue-slider-component.png)
+![screenshot](assets/slider-vue-component.png)
 
 ## Installation
 
